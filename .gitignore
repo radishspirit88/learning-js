@@ -1,4 +1,5 @@
 # A comment
+ignoreme.html
 *.txt
 .DS_Store
 *.zip
