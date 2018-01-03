@@ -4,10 +4,10 @@
     </head>
     <body>
         <header>
-            <h1>Hey! I just wanted to say: Welcome to my new site!</h1>
-            <p>Stick around man! Ass hat! Something “different.”</p>
+            <h1>Hey! I just wanted to say: Welcome to my new site! How do you like it?</h1>
+            <p>Stick around man! Too crude! Something “different.”</p>
             <p>We like people.</p>
-            <p>Hehe!</p>
+            <p>Hehe! More text.</p>
         </header>
     </body>
 </html>
