@@ -1,5 +1,6 @@
 <html>
     <head>
+        <title>New Feature = Title! WoW!</title>
     </head>
     <body>
         <header>
