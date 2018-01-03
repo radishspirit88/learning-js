@@ -5,9 +5,9 @@
     <body>
         <header>
             <h1>Hey! I just wanted to say: Welcome to my new site!</h1>
-            <p>Stick around hamster. Ass hat! Something different.</p>
-            <p>filom</p>
-            <b>chillem</b>
+            <p>Stick around man! Ass hat! Something “different.”</p>
+            <p>We like people.</p>
+            <p>Hehe</p>
         </header>
     </body>
 </html>
