@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>New Feature</title>
+        <title>New Feature!</title>
     </head>
     <body>
         <header>
